@@ -37,6 +37,7 @@ gem 'counter_culture', '~> 0.1.33'
 
 gem 'puma'
 
+gem 'seed-fu'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
